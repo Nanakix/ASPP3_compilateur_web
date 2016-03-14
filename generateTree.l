@@ -16,9 +16,9 @@ ATTRIBUTS \[{ATTRIBUT}([[:space:]]+{ATTRIBUT})*\]
 
 %%
 //regles
-div{ATTRIBUTS}?\{ {printf("CA MARCHE LE DIV\n"); }
+div{ATTRIBUTS}?\{ {/*return div*/}
 //Href obligatoire pour a?
-a{ATTRIBUTS}?\{ printf("CA MARCHE LE A\n"); }
+a{ATTRIBUTS}?\{ /*return a*/ }
 br\/ {printf("br\n");}
 %%
 
