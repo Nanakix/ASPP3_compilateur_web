@@ -1,5 +1,5 @@
-div{
-	"ceci est un lien qui vous conduira au " a[href="www.labri.fr" id="lien"]{"LaBRI"} " à Bordeaux. "
-br/
-
+div[class="table" class="chaise"]{
+		  div[class="table" class="chaise"]{
+		  		    sldkjfsldkfjsldkfjsldkfjsdf
+		  }		  
 }
